@@ -13,3 +13,5 @@ const sum=myNum.reduce((accumulator, currentValue)=>{
     return accumulator+currentValue;
 }
 ,0);
+
+console.log(sum)
